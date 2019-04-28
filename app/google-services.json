@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278292567754",
+    "firebase_url": "https://receipt2recipe-64f7d.firebaseio.com",
+    "project_id": "receipt2recipe-64f7d",
+    "storage_bucket": "receipt2recipe-64f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278292567754:android:a1514dae650553f4",
+        "android_client_info": {
+          "package_name": "com.wesniemarcelin.receipt2recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278292567754-k46lg44u581n48u78tekrq3m0bk49b9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa98J2GMJydvl6RdELuIIm2q6Ss3uX7qs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278292567754-k46lg44u581n48u78tekrq3m0bk49b9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
